@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Tomcat is already installed at $CATALINA_HOME. Skip reinstalling it."
